@@ -209,4 +209,4 @@ This repository serves as the official landing page for CyberLink PhotoDirector.
 **Get the most recent version of CyberLink PhotoDirector today!**
 
 ---
-**Last updated:** 2026-11-28 01:24:30 UTC
+**Last updated:** 2026-11-28 10:03:07 UTC
